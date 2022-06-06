@@ -1,7 +1,7 @@
 ### WakeGG
 
 <div>  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WakeGG&show_icons=true&count_private=true&hide_border=true&title_color=32659c&icon_color=32659c&text_color=32659c&bg_color=32659c" alt="Vn github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WakeGG&show_icons=true&count_private=true&hide_border=true&title_color=be0001&icon_color=be0001&text_color=c9d1d9&bg_color=0d1117" alt="Vn github stats" /> 
 </div>
 
 ### dominated
