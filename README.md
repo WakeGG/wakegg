@@ -10,7 +10,6 @@
 [![vn](https://img.shields.io/badge/-html5-be0001?logo=html5&logoColor=white)](https://github.com/WakeGG)
 [![vn](https://img.shields.io/badge/-css-be0001?logo=css3&logoColor=white)](https://github.com/WakeGG)
 [![vn](https://img.shields.io/badge/-java-be0001?logo=java&logoColor=white)](https://github.com/WakeGG)
-[![vn](https://img.shields.io/badge/-c#-be0001?logo=c#&logoColor=white)](https://github.com/WakeGG)
 [![vn](https://img.shields.io/badge/-c++-be0001?logo=c++&logoColor=white)](https://github.com/WakeGG)
 ### networks
 [![vn](https://img.shields.io/badge/-youtube-be0001?logo=youtube&logoColor=white)]()
