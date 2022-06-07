@@ -6,10 +6,10 @@
 
 ### dominated
 [![vn](https://img.shields.io/badge/-javascript-be0001?logo=javascript&logoColor=white)](https://github.com/WakeGG)
-[![vn](https://img.shields.io/badge/-python-be0001?logo=python&logoColor=white)](https://github.com/WakeGG)
+[![vn](https://img.shields.io/badge/-php-be0001?logo=php&logoColor=white)](https://github.com/WakeGG)
 [![vn](https://img.shields.io/badge/-html5-be0001?logo=html5&logoColor=white)](https://github.com/WakeGG)
 [![vn](https://img.shields.io/badge/-css-be0001?logo=css3&logoColor=white)](https://github.com/WakeGG)
-[![vn](https://img.shields.io/badge/-pandas-be0001?logo=pandas&logoColor=white)](https://github.com/WakeGG)
+[![vn](https://img.shields.io/badge/-java-be0001?logo=java&logoColor=white)](https://github.com/WakeGG)
 ### networks
 [![vn](https://img.shields.io/badge/-youtube-be0001?logo=youtube&logoColor=white)]()
 [![vn](https://img.shields.io/badge/-instagram-be0001?logo=instagram&logoColor=white)](https://www.instagram.com/)
