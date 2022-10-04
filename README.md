@@ -1,9 +1,8 @@
 ### WakeGG
 
-<div>
-  <a href="https://github.com/WakeGG">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=WakeGG&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-</div>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=WakeGG&label=Profile%20views&color=0d1117&style=flat" alt="WakeGG" /> 
+</p>
 
 <div>  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WakeGG&show_icons=true&count_private=true&hide_border=true&title_color=be0001&icon_color=be0001&text_color=c9d1d9&bg_color=0d1117" alt="Vn github stats" /> 
